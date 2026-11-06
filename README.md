@@ -59,7 +59,6 @@ SQL concepts used: joins, GROUP BY, aggregate functions, date functions, CTEs, v
 6. **Healthy margin:** production cost stays well below sales across all months, giving a stable profit margin of 41.15%.
 
 ## Conclusion
-## Conclusion
 Sales peaked in 2013 and Australia is the strongest market, contributing over a third of total sales, while Mountain-200 bikes lead the product list. With Q4 as the strongest quarter and a stable profit margin of 41.15%, the business should focus its marketing and inventory on Australia and the Mountain-200 range ahead of Q4, and keep production costs under control to protect profit.
 
 ## Tools Used
