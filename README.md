@@ -3,7 +3,7 @@
 End-to-end analysis of Adventure Works Cycles sales data (2010-2014) using **Excel, MySQL, Power BI and Tableau**.
 
 ## Project Overview
-Adventure Works Cycles is a multinational bicycle manufacturer operating across North American, European and Asian markets, headquartered in Bothell, Washington. This group project answers client business questions about sales, profit, products, customers and regions, and presents the results in interactive dashboards.
+Adventure Works Cycles is a multinational bicycle manufacturer operating across North American, European and Asian markets, headquartered in Bothell, Washington. This project answers client business questions about sales, profit, products, customers and regions, and presents the results in interactive dashboards.
 
 ## My Role
 I independently completed this project end to end: combined and cleaned the data in MySQL (UNION ALL, joins, calculated Sales Amount, Production Cost and Profit), built the Excel dashboard with pivot tables and slicers, designed the Power BI dashboard with KPI cards and drill down, and created the Tableau visualizations.
