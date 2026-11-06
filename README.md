@@ -13,17 +13,25 @@ I independently completed this project end to end: combined and cleaned the data
 ## Key Metrics
 | Total Sales | Profit | Production Cost | Total Orders | Profit Margin |
 |---|---|---|---|---|
-| 29.36M | 12.08M | 17M | 60K | 41.15% |
+| 29.36M | 12.08M | 17.28M | 60K | 41.15% |
 
+## Dashboard Preview
 ### Excel Dashboard
+![Excel dashboard](presentation/excel_dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](presentation/powerbi_dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](presentation/tableau_dashboard.png)
 
 ## Tools Used
 | Tool | What was done |
 |---|---|
-| MySQL | Combined the fact tables with UNION ALL, joined product, customer and territory tables, created date columns, and calculated Sales Amount, Production Cost and Profit |
 | Excel | Pivot tables, charts and slicers (Year, Region, Category) in an interactive dashboard |
 | Power BI | Interactive dashboard with KPI cards, filters and drill down |
 | Tableau | Interactive dashboard with year, country, quarter and month filters, and a country sales map |
+| MySQL | Combined the fact tables with UNION ALL, joined product, customer and territory tables, created date columns, and calculated Sales Amount, Production Cost and Profit |
 
 ## Dashboards
 Each dashboard shows year-wise, quarter-wise and month-wise sales, top 10 products, top 10 customers, region-wise sales, and sales vs production cost.
@@ -74,5 +82,8 @@ Adventure_work_sales_analysis/
 - S. Bhaskar Sai Charan
 
 ## Author
-**Menni Posibabu**, Aspiring Data Analyst
+**Menni Posibabu**, 
+Aspiring Data Analyst | Excel, MySQL, Power BI, Tableau
 LinkedIn: (www.linkedin.com/in/posibabumenni)
+GitHub: [posi19babu](http://github.com/posi19babu)
+email: posibabu414@gmail.com
