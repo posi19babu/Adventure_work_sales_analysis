@@ -25,14 +25,6 @@ I independently completed this project end to end: combined and cleaned the data
 ### Tableau Dashboard
 ![Tableau Dashboard](presentation/tableau_dashboard.png)
 
-## Tools Used
-| Tool | What was done |
-|---|---|
-| Excel | Pivot tables, charts and slicers (Year, Region, Category) in an interactive dashboard |
-| Power BI | Interactive dashboard with KPI cards, filters and drill down |
-| Tableau | Interactive dashboard with year, country, quarter and month filters, and a country sales map |
-| MySQL | Combined the fact tables with UNION ALL, joined product, customer and territory tables, created date columns, and calculated Sales Amount, Production Cost and Profit |
-
 ## Dashboards
 Each dashboard shows year-wise, quarter-wise and month-wise sales, top 10 products, top 10 customers, region-wise sales, and sales vs production cost.
 
@@ -65,6 +57,18 @@ SQL concepts used: joins, GROUP BY, aggregate functions, date functions, CTEs, v
 4. **Top customers are closely ranked:** the top 10 customers each bought about 13K-16K, led by Jordan Turner.
 5. **Q4 is the strongest quarter:** 9.11M (31.0% of sales), and December is the best month at about 3.21M.
 6. **Healthy margin:** production cost stays well below sales across all months, giving a stable profit margin of 41.15%.
+
+## Conclusion
+## Conclusion
+Sales peaked in 2013 and Australia is the strongest market, contributing over a third of total sales, while Mountain-200 bikes lead the product list. With Q4 as the strongest quarter and a stable profit margin of 41.15%, the business should focus its marketing and inventory on Australia and the Mountain-200 range ahead of Q4, and keep production costs under control to protect profit.
+
+## Tools Used
+| Tool | What was done |
+|---|---|
+| Excel | Pivot tables, charts and slicers (Year, Region, Category) in an interactive dashboard |
+| Power BI | Interactive dashboard with KPI cards, filters and drill down |
+| Tableau | Interactive dashboard with year, country, quarter and month filters, and a country sales map |
+| MySQL | Combined the fact tables with UNION ALL, joined product, customer and territory tables, created date columns, and calculated Sales Amount, Production Cost and Profit |
 
 ## Repository Structure
 ```
